@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.realreturnengine/real-return-engine",
+  "title": "Real Return Engine: 7-Year Cross-Asset Expected Returns",
+  "description": "7-year expected real and nominal returns for Cash, Bonds, and S&P 500 (1928-2026 backtest).",
+  "version": "1.0.0",
+  "websiteUrl": "https://realreturnengine.com",
+  "repository": {
+    "url": "https://github.com/realreturnengine/realreturnengine-mcp-plugin",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.realreturnengine.com/mcp"
+    }
+  ]
+}
