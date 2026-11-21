@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "realreturnengine": {
+      "type": "http",
+      "url": "https://www.realreturnengine.com/mcp"
+    }
+  }
+}
