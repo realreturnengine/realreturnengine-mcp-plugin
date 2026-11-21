@@ -1,0 +1,36 @@
+{
+  "name": "realreturnengine",
+  "displayName": "Real Return Engine",
+  "version": "1.0.0",
+  "description": "Compute 7-year expected real (after-inflation) and nominal returns, normalized fixed-income yields, and 100-year historical backtest accuracy (1928-2026) across Cash (3-Month US Treasury Bills), 10-Year US Treasury Bonds, Investment-Grade Corporate Bonds (Moody's Baa), and the S&P 500 (Post-1990 Baseline, 100-Year Baseline, Shiller 10Y Gov Bond CAPE / Excess CAPE Yield, and Standard Raw CAPE) on the Real Return Engine, rather than guessing expected returns in prose.",
+  "author": {
+    "name": "Real Return Engine",
+    "url": "https://realreturnengine.com"
+  },
+  "homepage": "https://realreturnengine.com",
+  "repository": "https://github.com/realreturnengine/realreturnengine-mcp-plugin",
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "investing",
+    "macro",
+    "sp500",
+    "spy",
+    "stocks",
+    "bonds",
+    "treasury",
+    "yields",
+    "rates",
+    "inflation",
+    "shiller-cape",
+    "pe-ratio",
+    "valuation",
+    "expected-returns",
+    "forecast",
+    "backtest",
+    "asset-allocation",
+    "portfolio",
+    "capital-market-assumptions"
+  ],
+  "defaultEnabled": false
+}
